@@ -1,2 +1,6 @@
 Contenido inicial
+<<<<<<< HEAD
 Cambio desde main
+=======
+Cambio desde rama desarrollo
+>>>>>>> desarrollo
